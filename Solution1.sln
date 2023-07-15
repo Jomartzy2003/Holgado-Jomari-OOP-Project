@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6006B3DB-F64F-4BD8-BA53-1BCB96671D9B}"
+	ProjectSection(SolutionItems) = preProject
+		JomPointsSystem.cs = JomPointsSystem.cs
+		Menu.cs = Menu.cs
+		RewardProcessor.cs = RewardProcessor.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDA78FC4-4AF6-459E-8C38-3240F2879122}
+	EndGlobalSection
+EndGlobal
